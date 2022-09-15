@@ -1,2 +1,4 @@
 # Pose_Estimation
-https://user-images.githubusercontent.com/93571457/190512180-4ec76197-5d7f-423b-b942-eedacd647b4e.mp4
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93571457/190512601-ed70721b-739d-4441-a1b2-be6730cef50c.gif)
+
